@@ -1,0 +1,7 @@
+ArcGISLicenseFileLocation =\\SomeWebServer\C$\Program Files (x86)\ArcGIS\License10.5\bin
+IISFilesDirectory =\\SomeLicenseServer\C$\inetpub\logs\LogFiles\W3SVC1
+ArcGISLicenseFileDestination =\\SomeDestination\GISData\GIS_Models\Logging
+IISFilesDestination =\\SomeDestination\GISData\GIS_Models\Logging
+Adminusername =user
+Adminpassword =password
+Domainname =somedomain
